@@ -1,0 +1,18 @@
+{
+	"basics": {
+		"name": "Chandan Dubey",
+		"label": "Full Stack Web developer",
+		"picture": "profile.jpg",
+		"email": "2020mt93724@wilp.bits-pilani.ac.in",
+		"phone": "(91) 9038655955",
+		"website": "https://chandandubey.com/",
+		"twitter": "https://twitter.com/dubeycjhandan996",
+		"facebook": "https://www.facebook.com/chandankumardubey",
+		"github": "http://github.com/dubeychandan996",
+		"summary": "To be added"
+	},
+	"theme": {
+		"url": "#",
+		"background" :"#f98008"
+	}
+}
